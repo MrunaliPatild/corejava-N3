@@ -1,4 +1,4 @@
-package encapsulationdemo;
+package org.tnsif.encapsulationdemo;
 
 public class HDFC {
 	//data members

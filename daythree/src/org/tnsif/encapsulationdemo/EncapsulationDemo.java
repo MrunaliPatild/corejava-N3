@@ -1,4 +1,4 @@
-package encapsulationdemo;
+package org.tnsif.encapsulationdemo;
 import java.util.Scanner;
 public class EncapsulationDemo {
 

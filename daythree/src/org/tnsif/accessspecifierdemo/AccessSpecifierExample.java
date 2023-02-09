@@ -7,8 +7,7 @@ public class AccessSpecifierExample {
 		 * access only inside the same package
 		 */
 		//void display()
-		public void display()
-		{
+		public void display()`````
 			System.out.println("The name is: "+name);
 		}
 		
