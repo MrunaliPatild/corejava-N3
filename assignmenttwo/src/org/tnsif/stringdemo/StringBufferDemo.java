@@ -1,4 +1,4 @@
-package org.tnsif.stringdemo;
+ package org.tnsif.stringdemo;
 //program to demonstrate on StringBuffer
 public class StringBufferDemo {
 
