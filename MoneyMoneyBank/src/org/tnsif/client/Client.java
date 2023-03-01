@@ -9,8 +9,8 @@ public class Client {
 	public static void main(String args[])
 	{
 		BankFactory b=new MMBankFactory();
-		MMCurrentAcc c=new MMCurrentAcc(78562,"Mrunali",25000.0f,7.0f);
-		MMSavingAcc s=new MMSavingAcc(32157,"Shraddha",3000.0f,true);
+		MMCurrentAcc c=new MMCurrentAcc(1100,"Mrunali",25000.0f,5.0f);
+		MMSavingAcc s=new MMSavingAcc(2200,"Shraddha",2000.0f,true);
 		System.out.println("Saving Account");
 		System.out.println(s);
 		s.withdraw(s.getAccBal());
